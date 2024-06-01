@@ -1,5 +1,5 @@
 # Flask_Basic
-[!logo](https://github.com/prabhakarvenkat/Flask_Basic/blob/a152d79b63d7af7c5eceb0208f89eb4837612ae4/Flask_logo.svg)
+![logo](https://github.com/prabhakarvenkat/Flask_Basic/blob/94bd3b3d6d8f4736188bff6dcead36b086ad8f5a/flask.png)
 
 This repo has been updated to work with `Python v3.8` and up.
 
